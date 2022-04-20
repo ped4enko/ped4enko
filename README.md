@@ -2,7 +2,7 @@
 
 Welcome to my Git page!
 
-- 🔭 I’m currently working on [GBKSOFT](https://gbksoft.com/)
+- 🔭 I’m currently working on [Altamira/ex.GBKSOFT](https://gbksoft.com/)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Software Development.
 
