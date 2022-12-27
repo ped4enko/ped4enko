@@ -2,7 +2,7 @@
 
 Welcome to my Git page!
 
-- 🔭 I’m currently working on [Altamira/ex.GBKSOFT](https://gbksoft.com/) and [GOOGELECOM PROJECT](https://googelecom.net/).
+- 🔭 I’m currently working on [Altamira/ex.GBKSOFT](https://www.altamira.ai/) and [GOOGELECOM PROJECT](https://googelecom.net/).
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about Software Development.
 
