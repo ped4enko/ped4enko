@@ -7,3 +7,6 @@ Welcome to my Git page!
 - 💬 Ask me about Software Development.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ped4enko.visitor-badge)
+
+<img alt="Maksym's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=ped4enko&show_icons=true&theme=transparent"/>
