@@ -8,5 +8,8 @@ Welcome to my Git page!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ped4enko.visitor-badge)
 
-<img alt="Maksym's GitHub stats"
+<img alt="Ped4enko's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=ped4enko&show_icons=true&theme=transparent"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
