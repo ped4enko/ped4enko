@@ -24,9 +24,3 @@ My name is Alex Pedchenko, and I have been working as an Engineer since 2014. I 
 I think it's essential always to keep professional and surround yourself with good people, work hard, and be nice to everyone. You have to perform at a consistently higher level than others. That's the mark of a true professional.
 
 For more information, please visit my page at [https://oleksandrpedchenko.com/](https://oleksandrpedchenko.com/), follow me on Twitter [@ped4enko](https://twitter.com/ped4enko).
-
-## 🔥 PDF Generation Tool
-
-The project uses [Ibis](https://github.com/themsaid/ibis/) developed by [Mohamed Said](https://github.com/themsaid).
-
-Ibis is a PHP tool that helps you write eBooks in markdown.
